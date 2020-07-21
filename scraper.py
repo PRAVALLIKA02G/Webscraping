@@ -199,4 +199,4 @@ def index():
 
 
 if __name__ == '__main__':
-	scraper.run()
+	app.run()
